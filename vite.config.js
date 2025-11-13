@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: process.env.NODE_ENV === 'production' ? '/User-Details-Management/' : '/',
+  base:'/User-Details-Management/',
 })
